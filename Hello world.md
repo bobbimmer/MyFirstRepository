@@ -6,3 +6,5 @@ git branch -M main
 git push -u origin main
 ```
 Челси - замечательный пёсик
+
+Совершенно с эти согласен
